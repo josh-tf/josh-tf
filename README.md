@@ -10,14 +10,14 @@ import SoftwareDeveloper from 'josh-tf';
 class Bio extends SoftwareDeveloper {
   name      =  'Josh Bowden';
   title     =  'Software Engineer';
-  project   =  'EggRP - egg-rp.com';
+  project   =  '(bau)';
   location  =  'Melbourne, AU';
 }
 
 class Contacts extends SoftwareDeveloper {
   web      =  'josh.tf';
   email    =  'me (at) josh.tf';
-  discord  =  'ukiyo#0001';
+  discord  =  'uki_';
 }
 ```
 

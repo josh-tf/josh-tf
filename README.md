@@ -46,7 +46,7 @@ const josh: Developer = {
 - 🔭 I’m currently working on a few random projects
 - 💬 Ask me about **Typescript, Node, C#, Python, Java** or anything else
 - 📫 Contact me: [me@josh.tf](mailto:me@josh.tf) or find me on Discord at `uki_`.
-- ⚡ PGP Public Key: `07B8 CEC9 1E4A B5ED`(https://keybase.io/joshtf/pgp_keys.asc)
+- ⚡ PGP Public Key: [`07B8 CEC9 1E4A B5ED`](https://keybase.io/joshtf/pgp_keys.asc)
 
 -------
 

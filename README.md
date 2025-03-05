@@ -88,14 +88,9 @@ export default josh;
 
 -------
 
-📊 **My Github Stats**
-<details>
-<summary>Click to expand</summary>
-<p align="center">
-<a href="https://github.com/josh-tf">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/?username=josh-tf&layout=compact&theme=dark&count_private=true&show_icons=true" />
-  <br/><br/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-tf&layout=compact&theme=dark&count_private=true" />
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=25597681" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=25597681&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @josh-tf" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=25597681&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
 </a>
-</p>
-</details>

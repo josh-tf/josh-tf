@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/5XIfhj4.gif" height="128" width="512" alt="Maze">
+  <img src="https://i.imgur.com/865IMaL.png" height="256" alt="Maze">
 </p>
 
 <h2 align="center">👋 Hello! I'm Josh.</h2>

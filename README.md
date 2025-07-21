@@ -36,7 +36,7 @@ export default Josh;
 ## 💿 Overview
 - 🔭 **Current Projects:** Random fun builds, TreeBot, RustAU
 - 💬 **Ask Me About:** TypeScript, Node.js, C#, Python, Java
-- 📫 **Contact:** [me@josh.tf](mailto:me@josh.tf) • Discord: `uki_`
+- 📫 **Contact:** [git@josh.tf](mailto:git@josh.tf) • Discord: `uki_`
 - 🔐 **PGP Public Key:** [`07B8 CEC9 1E4A B5ED`](https://keybase.io/joshtf/pgp_keys.asc)
 
 
